@@ -3,4 +3,9 @@
   <groupId>gitDemo</groupId>
   <artifactId>gitDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  changed by sedt 1 in sdet product
+  </dependencies>
 </project>
+
